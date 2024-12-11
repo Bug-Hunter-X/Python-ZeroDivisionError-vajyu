@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates a common error: division by zero. The `function` takes two arguments (`a` and `b`) and returns their quotient. However, if `b` is zero, a `ZeroDivisionError` occurs. The solution shows how to handle this error using a `try-except` block.
